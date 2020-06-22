@@ -25,7 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		138F010B24A0ABB4009E75CC /* DataDiri */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DataDiri; sourceTree = BUILT_PRODUCTS_DIR; };
+		138F010B24A0ABB4009E75CC /* BelajarXCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BelajarXCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		138F010E24A0ABB4009E75CC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		138F011924A0B53F009E75CC /* inputdatadiri.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = inputdatadiri.swift; sourceTree = "<group>"; };
 		138F011B24A0B567009E75CC /* informasidatadiri.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = informasidatadiri.swift; sourceTree = "<group>"; };
@@ -53,7 +53,7 @@
 		138F010C24A0ABB4009E75CC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				138F010B24A0ABB4009E75CC /* DataDiri */,
+				138F010B24A0ABB4009E75CC /* BelajarXCode */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -71,9 +71,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		138F010A24A0ABB4009E75CC /* DataDiri */ = {
+		138F010A24A0ABB4009E75CC /* BelajarXCode */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 138F011224A0ABB4009E75CC /* Build configuration list for PBXNativeTarget "DataDiri" */;
+			buildConfigurationList = 138F011224A0ABB4009E75CC /* Build configuration list for PBXNativeTarget "BelajarXCode" */;
 			buildPhases = (
 				138F010724A0ABB4009E75CC /* Sources */,
 				138F010824A0ABB4009E75CC /* Frameworks */,
@@ -83,9 +83,9 @@
 			);
 			dependencies = (
 			);
-			name = DataDiri;
+			name = BelajarXCode;
 			productName = DataDiri;
-			productReference = 138F010B24A0ABB4009E75CC /* DataDiri */;
+			productReference = 138F010B24A0ABB4009E75CC /* BelajarXCode */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -103,7 +103,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 138F010624A0ABB4009E75CC /* Build configuration list for PBXProject "DataDiri" */;
+			buildConfigurationList = 138F010624A0ABB4009E75CC /* Build configuration list for PBXProject "BelajarXCode" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				138F010A24A0ABB4009E75CC /* DataDiri */,
+				138F010A24A0ABB4009E75CC /* BelajarXCode */,
 			);
 		};
 /* End PBXProject section */
@@ -272,7 +272,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		138F010624A0ABB4009E75CC /* Build configuration list for PBXProject "DataDiri" */ = {
+		138F010624A0ABB4009E75CC /* Build configuration list for PBXProject "BelajarXCode" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				138F011024A0ABB4009E75CC /* Debug */,
@@ -281,7 +281,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		138F011224A0ABB4009E75CC /* Build configuration list for PBXNativeTarget "DataDiri" */ = {
+		138F011224A0ABB4009E75CC /* Build configuration list for PBXNativeTarget "BelajarXCode" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				138F011324A0ABB4009E75CC /* Debug */,
