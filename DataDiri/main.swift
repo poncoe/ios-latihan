@@ -8,5 +8,15 @@
 
 import Foundation
 
-print("Hello, World!")
+print("Masukan Nama Anda : "); let name = readLine()!
 
+print("\nSelamat Datang, \(name)!\n\nTerdapat Beberapa Source Code di file swift lain, kalo mau dicoba di uncomment dulu ya dan pindahin kodenya ke main.swift biar work, okeda")
+
+print("\n\n")
+
+// ---------------------------------------
+
+/* Terdapat Beberapa Source Code di file swift lain, kalo mau dicoba di uncomment dulu ya semua dengan cara "command + /" dan pindahin kodenya ke main.swift biar work, okeda uncomment
+ */
+
+// ---------------------------------------
