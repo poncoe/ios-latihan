@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1360CCA124A914830006C7DF /* hitungbalokhardcoded.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1360CCA024A914830006C7DF /* hitungbalokhardcoded.swift */; };
+		1360CCA324A9149D0006C7DF /* inputhitungbalok.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1360CCA224A9149D0006C7DF /* inputhitungbalok.swift */; };
 		138F010F24A0ABB4009E75CC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138F010E24A0ABB4009E75CC /* main.swift */; };
 		138F011A24A0B53F009E75CC /* inputdatadiri.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138F011924A0B53F009E75CC /* inputdatadiri.swift */; };
 		138F011C24A0B567009E75CC /* informasidatadiri.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138F011B24A0B567009E75CC /* informasidatadiri.swift */; };
@@ -25,6 +27,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1360CCA024A914830006C7DF /* hitungbalokhardcoded.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hitungbalokhardcoded.swift; sourceTree = "<group>"; };
+		1360CCA224A9149D0006C7DF /* inputhitungbalok.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = inputhitungbalok.swift; sourceTree = "<group>"; };
 		138F010B24A0ABB4009E75CC /* BelajarXCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BelajarXCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		138F010E24A0ABB4009E75CC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		138F011924A0B53F009E75CC /* inputdatadiri.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = inputdatadiri.swift; sourceTree = "<group>"; };
@@ -64,6 +68,8 @@
 				138F010E24A0ABB4009E75CC /* main.swift */,
 				138F011924A0B53F009E75CC /* inputdatadiri.swift */,
 				138F011B24A0B567009E75CC /* informasidatadiri.swift */,
+				1360CCA024A914830006C7DF /* hitungbalokhardcoded.swift */,
+				1360CCA224A9149D0006C7DF /* inputhitungbalok.swift */,
 			);
 			path = DataDiri;
 			sourceTree = "<group>";
@@ -126,8 +132,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				138F011A24A0B53F009E75CC /* inputdatadiri.swift in Sources */,
+				1360CCA324A9149D0006C7DF /* inputhitungbalok.swift in Sources */,
 				138F010F24A0ABB4009E75CC /* main.swift in Sources */,
 				138F011C24A0B567009E75CC /* informasidatadiri.swift in Sources */,
+				1360CCA124A914830006C7DF /* hitungbalokhardcoded.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
