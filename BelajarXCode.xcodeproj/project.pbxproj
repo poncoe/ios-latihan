@@ -13,6 +13,7 @@
 		138F011A24A0B53F009E75CC /* inputdatadiri.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138F011924A0B53F009E75CC /* inputdatadiri.swift */; };
 		138F011C24A0B567009E75CC /* informasidatadiri.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138F011B24A0B567009E75CC /* informasidatadiri.swift */; };
 		13EF4B1F24AB998D003CAAAE /* bermainkata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13EF4B1E24AB998D003CAAAE /* bermainkata.swift */; };
+		13EF4B3424AB9A4D003CAAAE /* resepmakanan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13EF4B3324AB9A4D003CAAAE /* resepmakanan.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		138F011924A0B53F009E75CC /* inputdatadiri.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = inputdatadiri.swift; sourceTree = "<group>"; };
 		138F011B24A0B567009E75CC /* informasidatadiri.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = informasidatadiri.swift; sourceTree = "<group>"; };
 		13EF4B1E24AB998D003CAAAE /* bermainkata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bermainkata.swift; sourceTree = "<group>"; };
+		13EF4B3324AB9A4D003CAAAE /* resepmakanan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = resepmakanan.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				1360CCA024A914830006C7DF /* hitungbalokhardcoded.swift */,
 				1360CCA224A9149D0006C7DF /* inputhitungbalok.swift */,
 				13EF4B1E24AB998D003CAAAE /* bermainkata.swift */,
+				13EF4B3324AB9A4D003CAAAE /* resepmakanan.swift */,
 			);
 			path = DataDiri;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 				1360CCA324A9149D0006C7DF /* inputhitungbalok.swift in Sources */,
 				138F010F24A0ABB4009E75CC /* main.swift in Sources */,
 				138F011C24A0B567009E75CC /* informasidatadiri.swift in Sources */,
+				13EF4B3424AB9A4D003CAAAE /* resepmakanan.swift in Sources */,
 				1360CCA124A914830006C7DF /* hitungbalokhardcoded.swift in Sources */,
 				13EF4B1F24AB998D003CAAAE /* bermainkata.swift in Sources */,
 			);
